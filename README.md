@@ -9,12 +9,15 @@
 2.变量声明：永远用var声明变量  
 3.空格：建议在操作符前后需要加空格，比如+、=  
 4.在node中使用字符串时尽量使用单引号  
-###命令规范：
+###命名规范：
 1.变量命名：小驼峰式命名  
 2.方法命名：小驼峰式命名，且方法名尽量采用动词或判断性词汇，如：var getUser = function () {};  
 3.类命名：大驼峰  
 4.常量命名：单词的所有字母都大写，并用下划线分割，如：var PINK_COLOR = 'pink';  
 5.文件命名：请尽量采用下划线分割单词，比如child_process.js。如果你不想将文件暴露给其他用户，可以约定以下划线开头，如_example.js.
+###其他
+构建工具：建议使用grunt
+流程控制：建议使用async
 ##成员对应github账号：
 唐德刚 https://github.com/vtangdg  
 黄婷婷 https://github.com/doublehtt  
