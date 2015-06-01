@@ -15,8 +15,8 @@
 3.类命名：大驼峰  
 4.常量命名：单词的所有字母都大写，并用下划线分割，如：var PINK_COLOR = 'pink';  
 5.文件命名：请尽量采用下划线分割单词，比如child_process.js。如果你不想将文件暴露给其他用户，可以约定以下划线开头，如_example.js.
-###其他
-构建工具：建议使用grunt
+###其他:
+构建工具：建议使用grunt  
 流程控制：建议使用async
 ##成员对应github账号：
 唐德刚 https://github.com/vtangdg  
