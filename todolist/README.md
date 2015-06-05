@@ -13,8 +13,4 @@
 1. req.query: 处理get请求，获取get请求的参数
 2. req.params: 处理类似/:xxx形式的get或者post请求，获取请求的参数
 3. req.body: 处理post请求，获取post请求体
-<<<<<<< HEAD
 4. req.param(): 处理get和post请求，但是查找优先级为req.params->req.body->req.query
-=======
-4. req.param(): 处理get和post请求，但是查找优先级为req.params->req.body->req.query
->>>>>>> 4b0677d7b66d5d844e410699fbefa08fc6c85776
