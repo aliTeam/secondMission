@@ -1,4 +1,4 @@
-# 这个 demo 借助express实现了一个基本restful架构
+# 这个 demo 借助 express 实现了一个基本 restful 架构
 
 ## demo中用到的模块工具介绍：
 1. grunt 任务自动管理工具
