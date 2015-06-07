@@ -9,6 +9,11 @@
 6. async 流程控制
 7. supervisor 自动重启应用
 
+## 服务器提供的功能
+1. 提供了对数据增删操作，利用的是mongoose对mongdb操作
+2. 路由控制，express的router模块
+3. 模板渲染，ejs
+
 ### 笔记：
 1. req.query: 处理get请求，获取get请求的参数
 2. req.params: 处理类似/:xxx形式的get或者post请求，获取请求的参数
