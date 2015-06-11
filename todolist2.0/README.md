@@ -33,4 +33,11 @@
 
 ## 程序截图
 
-<img src="/public/img/index.jpg" alt="index.jpg" title="index" width="400"/>
+### 主页
+<img src="https://github.com/aliTeam/secondMission/blob/master/todolist2.0/public/img/index.png" alt="index.jpg" title="index" width="400"/>
+### 登录
+<img src="https://github.com/aliTeam/secondMission/blob/master/todolist2.0/public/img/login.png" alt="index.jpg" title="index" width="400"/>
+### 注册
+<img src="https://github.com/aliTeam/secondMission/blob/master/todolist2.0/public/img/reg.png" alt="index.jpg" title="index" width="400"/>
+### 待办事项
+<img src="https://github.com/aliTeam/secondMission/blob/master/todolist2.0/public/img/todo.png" alt="index.jpg" title="index" width="400"/>
