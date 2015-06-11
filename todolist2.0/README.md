@@ -34,10 +34,10 @@
 ## 程序截图
 
 ### 主页
-<img src="https://github.com/aliTeam/secondMission/blob/master/todolist2.0/public/img/index.png" alt="index.jpg" title="index" width="400"/>
+<img src="https://github.com/aliTeam/secondMission/blob/master/todolist2.0/public/img/index.png" alt="index.jpg" title="index" width="800"/>
 ### 登录
-<img src="https://github.com/aliTeam/secondMission/blob/master/todolist2.0/public/img/login.png" alt="index.jpg" title="index" width="400"/>
+<img src="https://github.com/aliTeam/secondMission/blob/master/todolist2.0/public/img/login.png" alt="index.jpg" title="index" width="800"/>
 ### 注册
-<img src="https://github.com/aliTeam/secondMission/blob/master/todolist2.0/public/img/reg.png" alt="index.jpg" title="index" width="400"/>
+<img src="https://github.com/aliTeam/secondMission/blob/master/todolist2.0/public/img/reg.png" alt="index.jpg" title="index" width="800"/>
 ### 待办事项
-<img src="https://github.com/aliTeam/secondMission/blob/master/todolist2.0/public/img/todo.png" alt="index.jpg" title="index" width="400"/>
+<img src="https://github.com/aliTeam/secondMission/blob/master/todolist2.0/public/img/todo.png" alt="index.jpg" title="index" width="800"/>
